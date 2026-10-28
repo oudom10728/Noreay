@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forest</title>
+   <style>
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+        }
+        p {
+            color: white;
+            background-color: #07a252;
+            padding: 20px;
+        }
+       
+        
+        h1 {
+            text-align: center;
+            color: #07a252;
+        }
+        u {
+            text-align: left;
+            color: #07a252;
+        }
+        hr {
+            border: 3px solid #07a252;
+            margin: 10px 0;
+        }
+        h3 {
+            text-align:left;
+            color: #07a252;
+        }
+        p {
+            text-align: center;
+            background-color: #07a252;
+            color: #ffffff; 
+            padding: 20px;
+        }
+        div.Discount{
+            text-align: center;
+            background-color: #07a252;
+            color: #ffffff; 
+            margin:auto;       
+            width: 200px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 24px;
+            border-radius: 10px;
+        }
+      
+    </style>
+<body>
+        <p><h1>Hello, Welcome to the Forest!</h1></p>
+        <hr>
+        
+      <img style="width: 100%; height: 100%; border-radius: 10px;" src="https://www.khmertimeskh.com/wp-content/uploads/2023/03/UNDPKH_Forest-on-Kulen.jpg">
+     <hr>
+    
+    <i>
+          <u>
+            <h2>About the Forest</h2>
+        </u>
+    </i>
+    <h3>
+            The forest is a place of wonder and beauty, filled with diverse wildlife and stunning landscapes.
+    </h3>
+    <hr>
+    <img style="width: 49.5%;height: 49.5%;border-radius: 10px;" src="https://media.istockphoto.com/id/518355384/photo/cambodian-jungle-in-angkor.jpg?s=612x612&w=0&k=20&c=EYjUQ4bbjwgxQNO9v_6eOOMwqUiK4OM_bmUH0ZPgBvU=">
+    <img style="width: 49%; height: 49%;align-items: right;border-radius: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUlspKwB6_Zz4EPwYIHpR17elIH9MQIVaXOCAO-OsuMzf8adgd__2W69Y&s=10">
+    <p>
+        The forest is a place of wonder and beauty, filled with diverse wildlife and stunning landscapes.And here is the map please click the link below to login and see the map of the forest.
+        <br>
+         <a href="login.html" style="color: #ffffff;">Click to login and see the map
+         </a>
+        </p>
+    <hr>
+    <div class="Discount">
+        <i class="fa-solid fa-tag" aria hidden="true"></i>
+        <span>Discount: 20%</span>
+    </div>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+</body> 
+</html>             
